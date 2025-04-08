@@ -820,15 +820,15 @@
 		</data>
 		<key>Headers/ADPInterstitialManager.h</key>
 		<data>
-		uITH8vpqVdkghEs49c8LusIVhmY=
+		t86RZcbEMQNeTK64ZPgSG8fzpTs=
 		</data>
 		<key>Headers/ADPNativeAdDelegate.h</key>
 		<data>
-		LkpfwKg5sOomxxnZdrf1w0AmDNQ=
+		wwXEShLITutYDiB+hCiU3b6z6lk=
 		</data>
 		<key>Headers/ADPNativeAdManager.h</key>
 		<data>
-		QQfzhJIdRvgZO6HF6ga7yhVal5s=
+		W+8mpHv9t2DvE6YL+JVKp4JzJDs=
 		</data>
 		<key>Headers/ADPRewardVideoDelegate.h</key>
 		<data>
@@ -836,7 +836,7 @@
 		</data>
 		<key>Headers/ADPRewardVideoManager.h</key>
 		<data>
-		zcekKbjbcWGqIGuM8FhuWEkX0xU=
+		jw6glbr9t4nBOJacDZQPmRK+g9I=
 		</data>
 		<key>Headers/ADPSplashDelegate.h</key>
 		<data>
@@ -844,11 +844,11 @@
 		</data>
 		<key>Headers/ADPSplashManager.h</key>
 		<data>
-		aGOizl99aoHhHb+Vgu3oLPrF7gI=
+		wnOZT3SpKIyOi4iSAZ7QE3rmyII=
 		</data>
 		<key>Headers/AdpSDK.h</key>
 		<data>
-		bkIw1akqI0uNy19rCsSj30ecoIE=
+		x9+u/r2M/4XadSNE2iP//6PQf6U=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -3325,33 +3325,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uITH8vpqVdkghEs49c8LusIVhmY=
+			t86RZcbEMQNeTK64ZPgSG8fzpTs=
 			</data>
 			<key>hash2</key>
 			<data>
-			6NuD9nrCK06NRNSOi9GiAHUO16CZo70NAhuVztJQ0SA=
+			aEWEqZ3po+N0BOziwfAfYqlhWr+jIq3z7a6SbNbHUV0=
 			</data>
 		</dict>
 		<key>Headers/ADPNativeAdDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LkpfwKg5sOomxxnZdrf1w0AmDNQ=
+			wwXEShLITutYDiB+hCiU3b6z6lk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LslWGvmJlZZQFbQgWSJ09vrjPYDFqKOt8lO+Ko5bKRE=
+			GDn6jknWbxgrcI25H0UuruNssFY0AB7b0t4igYei1R4=
 			</data>
 		</dict>
 		<key>Headers/ADPNativeAdManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QQfzhJIdRvgZO6HF6ga7yhVal5s=
+			W+8mpHv9t2DvE6YL+JVKp4JzJDs=
 			</data>
 			<key>hash2</key>
 			<data>
-			70N+p+VQYOixLOOKM4OvLRXiRpBfgkY2KIEvCws4fFs=
+			U5EcXvHsW8Exf5PFh/sAguXp4fxCc1eYrnm85ynWUVA=
 			</data>
 		</dict>
 		<key>Headers/ADPRewardVideoDelegate.h</key>
@@ -3369,11 +3369,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zcekKbjbcWGqIGuM8FhuWEkX0xU=
+			jw6glbr9t4nBOJacDZQPmRK+g9I=
 			</data>
 			<key>hash2</key>
 			<data>
-			cNL/tcrELHc3xSPF/PjqHryJUGZkzjkqUKFVR0c5Lvw=
+			yU8K8F7bVKWsxsD5XgCOod4tSBWcy3ETZsxPXswv9Mc=
 			</data>
 		</dict>
 		<key>Headers/ADPSplashDelegate.h</key>
@@ -3391,22 +3391,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aGOizl99aoHhHb+Vgu3oLPrF7gI=
+			wnOZT3SpKIyOi4iSAZ7QE3rmyII=
 			</data>
 			<key>hash2</key>
 			<data>
-			ObG02bEvpszvYM83yoRAl5Rei20RRQT4m7v0lUBrP/s=
+			/GCOnznaapTqalLrlWRaYwh/ee6M8Wjq5m3GvWsKiX0=
 			</data>
 		</dict>
 		<key>Headers/AdpSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bkIw1akqI0uNy19rCsSj30ecoIE=
+			x9+u/r2M/4XadSNE2iP//6PQf6U=
 			</data>
 			<key>hash2</key>
 			<data>
-			SN8yBg4Nq3IP9lDWCOIIwuQ8iRPrwmPt7MoRqNiK02k=
+			UvjH8lmJmYsIUis0bELS3AHj3+shCCq5fYUmsJCfBEw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

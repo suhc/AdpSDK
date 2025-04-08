@@ -20,7 +20,12 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface AdpSDK : NSObject
 
+
++ (NSString *)getSDKVersion;
+
+
 + (void)initADPSDK:(NSString *)appid;
+
 
 @end
 

@@ -4,12 +4,12 @@
 
 
 #import <Foundation/Foundation.h>
-//#import "ADPInterstitialDelegate.h"
 #import <UIKit/UIKit.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
 @protocol ADPInterstitialDelegate;
+
 
 @interface ADPInterstitialManager : NSObject
 

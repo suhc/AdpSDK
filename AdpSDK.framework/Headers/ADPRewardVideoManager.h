@@ -17,11 +17,10 @@ extern NSString *const kATAdLoadingExtraRewardNameKey;
 extern NSString *const kATAdLoadingExtraRewardAmountKey;
 
 
+@protocol ADPRewardVideoDelegate;
 
 
 NS_ASSUME_NONNULL_BEGIN
-
-@protocol ADPRewardVideoDelegate;
 
 @interface ADPRewardVideoManager : NSObject
 

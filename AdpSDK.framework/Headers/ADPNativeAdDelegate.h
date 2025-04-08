@@ -18,7 +18,6 @@
 
 - (void)nativeAdRenderSuccess:(CGSize)size;
 
-
 /// 广告曝光
 - (void)nativeAdDidVisible;
 

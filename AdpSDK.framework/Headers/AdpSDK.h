@@ -15,7 +15,6 @@
 #import <AdpSDK/ADPRewardVideoDelegate.h>
 #import <AdpSDK/ADPSplashDelegate.h>
 
-
 NS_ASSUME_NONNULL_BEGIN
 
 @interface AdpSDK : NSObject

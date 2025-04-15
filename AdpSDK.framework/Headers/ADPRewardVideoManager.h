@@ -5,7 +5,7 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-
+#import <AdpSDK/ADPRewardVideoDelegate.h>
 /*
  * Third-party extra data
  */

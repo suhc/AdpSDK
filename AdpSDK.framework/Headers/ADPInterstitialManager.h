@@ -5,6 +5,7 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
+#import <AdpSDK/ADPInterstitialDelegate.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -3,7 +3,7 @@
 
 
 #import <Foundation/Foundation.h>
-#import <WindMillSDK/WindMillEnum.h>
+//#import <WindMillSDK/WindMillEnum.h>
 
 
 @protocol ADPSplashDelegate <NSObject>

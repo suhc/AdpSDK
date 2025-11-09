@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'AdpSDK'
-  s.version      = '1.2.22'
+  s.version      = '1.2.23'
   s.summary      = 'adpsdk'
   s.homepage     = 'https://ddd.com'
   s.license      = 'MIT'
@@ -18,6 +18,9 @@ Pod::Spec.new do |s|
   s.dependency 'ToBid-iOS/KSAdapter', '4.6.83'
   s.dependency 'ToBid-iOS/CSJMediationAdapter', '4.6.83'
   s.dependency 'ToBid-iOS/OctopusAdapter', '4.6.83'
+  s.dependency 'ToBid-iOS/MSAdAdapter', '4.6.83'
+  s.dependency 'ToBid-iOS/AdScopeAdapter', '4.6.83'
+
 
 
 

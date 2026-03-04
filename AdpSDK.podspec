@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'AdpSDK'
-  s.version      = '90.0.2'
+  s.version      = '90.0.3'
   s.summary      = 'adpsdk'
   s.homepage     = 'https://ddd.com'
   s.license      = 'MIT'
@@ -14,10 +14,13 @@ Pod::Spec.new do |s|
   # 核心子模块（必须的基础功能）
   s.subspec 'Core' do |core|
     core.vendored_frameworks = [
-      'base/AdpSDK.framework',
-      'base/WindFoundation.xcframework',
-      'base/WindMillSDK.xcframework',
-      'base/WindSDK.xcframework',
+   'base/AdpSDK.framework',
+   base/AnyThinkGDTAdapter.xcframework',
+  'base/AnyThinkGromoreAdapter.xcframework',
+  'base/AnyThinkKuaiShouAdapter.xcframework',
+  'base/AnyThinkTTAdapter_Mix.xcframework',
+  'base/OctToponAdapterSDK.xcframework',
+  'base/AnyThinkMSAdapter.xcframework'
     ]
    
     

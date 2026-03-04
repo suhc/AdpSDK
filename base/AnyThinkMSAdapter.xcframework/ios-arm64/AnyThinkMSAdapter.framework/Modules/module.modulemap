@@ -1,0 +1,6 @@
+framework module AnyThinkMSAdapter {
+  umbrella header "AnyThinkMSAdapter.h"
+  export *
+
+  module * { export * }
+}

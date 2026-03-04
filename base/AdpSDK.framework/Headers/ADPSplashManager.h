@@ -22,9 +22,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)loadADWithPlacementID:(NSString *)placement WithRootViewController:(UIViewController *)rootViewController WithDelegate:(id<ADPSplashDelegate>)delegate WithBottomView:(nullable UIView  *)bottomView;
 
-
-- (void)showSplashAdWithUIWindows:(UIWindow *)windows;
-
+- (void)showAdWithTobid:(UIWindow *)windows;
 
 @end
 
